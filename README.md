@@ -58,13 +58,8 @@ Constraints can make long sleeves of traditional Japanese clothing move naturall
 
 ---
 
-## Download PDF
-
-For full formatted content with figures:  
-[VRM 1.0 Technical Guide PDF](./VRM1.0_Document_v1.pdf)
-
----
 
 ## License
 
 *(Add your license here, e.g., MIT or Creative Commons)*
+
