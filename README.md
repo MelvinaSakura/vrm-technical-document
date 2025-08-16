@@ -1,4 +1,4 @@
-# VRM 1.0 Technical Guide
+# The Current Use of VRM 1.0
 
 *Note: The original document contains figures; this Markdown version includes summaries and key explanations. For full formatted content, see the PDF.*
 
@@ -62,4 +62,5 @@ Constraints can make long sleeves of traditional Japanese clothing move naturall
 ## License
 
 *(Add your license here, e.g., MIT or Creative Commons)*
+
 
